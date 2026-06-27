@@ -10,6 +10,8 @@
 
 # ⚡ Shopee Flash Sale Bot
 
+(This project is based on https://github.com/https://github.com/Auto-runs/Shopee-FlashBot)
+
 Bot otomatis untuk checkout item flash sale Shopee tepat di T=0 menggunakan concurrent requests dan NTP time synchronisation.
 
 ---
